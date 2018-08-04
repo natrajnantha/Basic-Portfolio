@@ -1,5 +1,5 @@
 html{
-    background-image: url('fresh_snow.png');
+    background-image: url("../images/fresh_snow.png");
     margin: 0;
 }
 
@@ -89,19 +89,19 @@ body {
 
 
 footer {
-    position : absolute;
-    bottom: 0;
+    margin: 0;
+    position : relative;
+    top: 2em;
     width: 100%;
     height: 60px;
     background-color: #666666;
 }
 
 footer p{
-    margin: 20px;
     border-top: solid 5px #4aaaa5;
-    margin: 0 auto;
-    padding: 38px 0 0 850px;
-}  }
+    margin: 0px auto;
+    padding: 18px 0 0px 440px;
+}  
 
 .footer, push {
     height: 50px;;
